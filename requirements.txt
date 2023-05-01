@@ -1,5 +1,5 @@
 click==7.0                # via flask
-flask==1.1.1              # via flaskr (setup.py)
+flask==2.3.2              # via flaskr (setup.py)
 itsdangerous==1.1.0       # via flask
 jinja2==2.11.1            # via flask
 markupsafe==1.1.1         # via jinja2
